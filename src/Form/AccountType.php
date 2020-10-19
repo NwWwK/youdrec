@@ -18,9 +18,7 @@ class AccountType extends AbstractType
             ->add('picture')
             ->add('actif')
             ->add('droit')
-            ->add('password')
             ->add('introduction')
-            ->add('slug')
         ;
     }
 
