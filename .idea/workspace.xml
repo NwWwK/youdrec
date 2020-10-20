@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b6c8e8-6565-4df5-9a8d-4d38138456f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="15b6c8e8-6565-4df5-9a8d-4d38138456f0" name="Default Changelist" comment="gestionnaire dépendance">
+      <change afterPath="$PROJECT_DIR$/src/Form/ArticleType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/phpunit" beforeDir="false" afterPath="$PROJECT_DIR$/bin/phpunit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Article.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -26,6 +48,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -137,11 +164,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1j8FBwc5KvszJtM7gFIG0RtLe4e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -155,14 +186,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603177688156</updated>
-      <workItem from="1603177695678" duration="3908000" />
+      <workItem from="1603177695678" duration="7075000" />
+      <workItem from="1603185635023" duration="3194000" />
+      <workItem from="1603191515697" duration="9710000" />
+      <workItem from="1603202033274" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="gestionnaire dépendance">
+      <created>1603181774289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603181774290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gestionnaire dépendance" />
+    <option name="LAST_COMMIT_MESSAGE" value="gestionnaire dépendance" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="266" y="124" width="828" height="533" key="IDE.errors.dialog" timestamp="1603193211688">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="266" y="124" width="828" height="533" key="IDE.errors.dialog/0.26.1366.717@0.26.1366.717" timestamp="1603193211688" />
+    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2" timestamp="1603185259610">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2/0.26.1366.717@0.26.1366.717" timestamp="1603185259610" />
+    <state x="523" y="95" width="313" height="592" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603181751265">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="523" y="95" width="313" height="592" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.26.1366.717@0.26.1366.717" timestamp="1603181751265" />
+    <state x="345" y="169" key="run.anything.popup" timestamp="1603192162369">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="345" y="169" key="run.anything.popup/0.26.1366.717@0.26.1366.717" timestamp="1603192162369" />
     <state x="408" y="301" width="544" height="180" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603180167557">
       <screen x="0" y="26" width="1366" height="717" />
     </state>

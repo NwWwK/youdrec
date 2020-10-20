@@ -44,7 +44,7 @@ class AppFixtures extends Fixture
 
             $title = $faker->sentence();
             $description = $faker-> paragraph(2);
-            $lienvideo = $faker->imageUrl(1000, 350);
+            $lienvideo = "https://www.youtube.com/watch?v=Sr44LZhdYSQ/";
             $datecreation = $faker->date('Y-m-d');
 
             $user = $users[mt_rand(0, count($users) -1)];
