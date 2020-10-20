@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15b6c8e8-6565-4df5-9a8d-4d38138456f0" name="Default Changelist" comment="gestionnaire dépendance">
-      <change afterPath="$PROJECT_DIR$/src/Form/ArticleType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/article/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +181,9 @@
       <workItem from="1603177695678" duration="7075000" />
       <workItem from="1603185635023" duration="3194000" />
       <workItem from="1603191515697" duration="9710000" />
-      <workItem from="1603202033274" duration="20000" />
+      <workItem from="1603202033274" duration="243000" />
+      <workItem from="1603209700940" duration="524000" />
+      <workItem from="1603212308647" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="gestionnaire dépendance">
       <created>1603181774289</created>
@@ -198,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603181774290</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gestionnaire dépendance">
+      <created>1603202123204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603202123204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gestionnaire dépendance">
+      <created>1603202256759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603202256759</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,10 +234,10 @@
       <screen x="0" y="26" width="1366" height="717" />
     </state>
     <state x="266" y="124" width="828" height="533" key="IDE.errors.dialog/0.26.1366.717@0.26.1366.717" timestamp="1603193211688" />
-    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2" timestamp="1603185259610">
+    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2" timestamp="1603202264108">
       <screen x="0" y="26" width="1366" height="717" />
     </state>
-    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2/0.26.1366.717@0.26.1366.717" timestamp="1603185259610" />
+    <state x="278" y="109" width="804" height="563" key="Vcs.Push.Dialog.v2/0.26.1366.717@0.26.1366.717" timestamp="1603202264108" />
     <state x="523" y="95" width="313" height="592" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603181751265">
       <screen x="0" y="26" width="1366" height="717" />
     </state>
